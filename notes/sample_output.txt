@@ -1,0 +1,7 @@
+
+=== SSH Log Summary ===
+
+Suspicious IP addresses (failed attempts >= 2):
+- 10.0.2.15: 3 failed attempts
+
+No successful logins found.
